@@ -107,4 +107,4 @@ Jesse Vincent <jesse@fsck.com>
 
 ## Repository
 
-https://github.com/obra/superpowers-developing-for-claude-code
+https://github.com/feng2r200/superpowers-developing-for-claude-code
